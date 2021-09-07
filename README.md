@@ -8,7 +8,8 @@ ruby
 
 # 啟動方法
 
-** 安裝依賴套件 **
+**安裝依賴套件**
 `bundle install`
-** 啟動 **
+
+**啟動**
 `ruby main.rb`
