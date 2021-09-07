@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-ruby '~> 2.6.3'
+ruby '~> 2.6.3', "<3.0.0"
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem 'httparty', '~> 0.13.7'
